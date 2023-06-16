@@ -252,7 +252,7 @@ You can redeploy this project by adding new lines of code to source files.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions, [issues](https://github.com/Benawi/Microverse-React-Bookstore/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
