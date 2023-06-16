@@ -205,3 +205,10 @@ body {
   font-family: 'Montserrat', 'Times New Roman', Times, serif;
   color: var(--font-color4);
 }
+
+.addBookGenre {
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  border: solid 1px var(--border-color1);
+  min-width: 35%;
+}
