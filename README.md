@@ -29,7 +29,7 @@
 
 # 📖 Book Store React Project <a name="about-project"></a>
 
-Book Store React Project - Microverse! project is a repository consisting of the following files:
+Book Store React Project - Microverse! - An online Bookstore app built with React, Redux, CSS, and HTML. Users can browse books by category, add them to a cart, and proceed to checkout. The app features a search function, allowing users to search for books by title or author. project is a repository consisting of the following files:
 - Html files
 - CSS files
 - JS files
@@ -239,6 +239,7 @@ You can redeploy this project by adding new lines of code to source files.
 ### 👤 Habtamu Alemayehu
 
 - GitHub: [Benawi](https://github.com/Benawi)
+- Linkdin: [Habtamu](https://www.linkedin.com/in/habtamu-alemayehu-b90367101/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
