@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
-![image](https://github.com/Benawi/Microverse-Reac-Math-Magicians/assets/21217148/7edcaffc-9037-4210-8165-1538cc8b8c10)
+![image](https://github.com/Benawi/Microverse-React-Bookstore/assets/21217148/fbc35a98-66d6-4ad3-9451-3744a236479f)
+
 
 
 # 📗 Table of Contents
@@ -60,7 +61,7 @@ Book Store React Project - Microverse! project is a repository consisting of the
    - [x] Add 2 routes in your application, each should render a page component:
         - [x] /
         - [x] /categories
-   - [x]Create components inside of the /components directory:
+   - [x] Create components inside of the /components directory:
         - [x] Contains individual book state, as well as a button to delete the book
         - [x] Contains a list to renders individual books
         - [x] Contains a form to create new books
