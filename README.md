@@ -245,9 +245,9 @@ You can redeploy this project by adding new lines of code to source files.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] Add the reducers and actions in redux for adding and removing the books👌
-- [] Use the API for posting and fetching the books🚀
-- [] Add some animations style for the project💯
+-  Add the reducers and actions in redux for adding and removing the books👌
+-  Use the API for posting and fetching the books🚀
+-  Add some animations style for the project💯
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
