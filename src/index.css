@@ -171,3 +171,9 @@ body {
   border-radius: 5px;
   margin-bottom: 2rem;
 }
+
+.chapterProgressContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
