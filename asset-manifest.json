@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Microverse-React-Bookstore/static/css/main.991539ba.css",
+    "main.js": "/Microverse-React-Bookstore/static/js/main.0dfaf5f6.js",
+    "static/js/787.084df8ef.chunk.js": "/Microverse-React-Bookstore/static/js/787.084df8ef.chunk.js",
+    "index.html": "/Microverse-React-Bookstore/index.html",
+    "main.991539ba.css.map": "/Microverse-React-Bookstore/static/css/main.991539ba.css.map",
+    "main.0dfaf5f6.js.map": "/Microverse-React-Bookstore/static/js/main.0dfaf5f6.js.map",
+    "787.084df8ef.chunk.js.map": "/Microverse-React-Bookstore/static/js/787.084df8ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.991539ba.css",
+    "static/js/main.0dfaf5f6.js"
+  ]
+}
