@@ -152,3 +152,12 @@ body {
 .appDefaultButton:active {
   color: var(--font-color1);
 }
+
+.booksContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.5rem;
+  width: 100%;
+}
