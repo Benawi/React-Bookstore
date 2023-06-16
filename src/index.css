@@ -161,3 +161,13 @@ body {
   margin-top: 2.5rem;
   width: 100%;
 }
+
+.bookItemcontainer {
+  display: flex;
+  width: 80%;
+  justify-content: space-around;
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: 5px;
+  margin-bottom: 2rem;
+}
