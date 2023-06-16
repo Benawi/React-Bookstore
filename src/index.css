@@ -193,3 +193,15 @@ body {
   width: 100%;
   justify-content: space-between;
 }
+
+.addBookTitle {
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  border: solid 1px var(--border-color1);
+  min-width: 45%;
+}
+
+.addBookTitle::placeholder {
+  font-family: 'Montserrat', 'Times New Roman', Times, serif;
+  color: var(--font-color4);
+}
