@@ -245,8 +245,9 @@ You can redeploy this project by adding new lines of code to source files.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [Bookstore: add reducers and actions](https://github.com/microverseinc/curriculum-react-redux/blob/main/bookstore/add_reducers_an_actions_v2.md)
-
+- [] Add the reducers and actions in redux for adding and removing the books👌
+- [] Use the API for posting and fetching the books🚀
+- [] Add some animations style for the project💯
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
