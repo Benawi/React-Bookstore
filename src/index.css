@@ -212,3 +212,7 @@ body {
   border: solid 1px var(--border-color1);
   min-width: 35%;
 }
+
+.addBookBtn {
+  min-width: 15%;
+}
