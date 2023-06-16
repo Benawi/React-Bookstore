@@ -66,12 +66,12 @@ Book Store React Project - Microverse! project is a repository consisting of the
         - [x] Contains a list to renders individual books
         - [x] Contains a form to create new books
         - [x] Contains a navigation to link to the 2 routes you created
-   - [x] In the browser tested ; it render without problems, [this](https://benawi.github.io/categories)
+   - [x] In the browser tested ; it render without problems, [this](https://benawi.github.io/Microverse-React-Bookstore/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🌐 Live Demo <a name="#live-demo"></a>
-- [React Book Store Web App](https://benawi.github.io/categories) 
+- [React Book Store Web App](https://benawi.github.io/Microverse-React-Bookstore/) 
 - Learn More [How to deploy react app](https://github.com/gitname/react-gh-pages)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
