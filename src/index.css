@@ -177,3 +177,13 @@ body {
   flex-direction: column;
   justify-content: center;
 }
+
+.addBookContainer {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-top: 2px solid var(--border-color1);
+  padding: 2rem 0 2rem 0;
+  margin: auto;
+}
