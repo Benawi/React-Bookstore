@@ -56,8 +56,8 @@ Book Store React Project - Microverse! project is a repository consisting of the
 - [x] Book Store: 
    - [x] Setup a new React application using Create React App
    - [x] Create a directory for your reusable components: /components.
-   - [x] Install React Router V6
-   - [x] Setup your router inside of <App>
+   - [x] Install React [Router V6](https://reactrouter.com/en/main/start/tutorial#setup)
+   - [x] [Setup your router](https://reactrouter.com/en/main/start/tutorial#adding-a-router) inside of <App>
    - [x] Add 2 routes in your application, each should render a page component:
         - [x] /
         - [x] /categories
