@@ -187,3 +187,9 @@ body {
   padding: 2rem 0 2rem 0;
   margin: auto;
 }
+
+.formContainer {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
