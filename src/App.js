@@ -4,7 +4,7 @@ import {
   Route,
 } from 'react-router-dom';
 import NavBar from './components/Navbar';
-import BookList from './components/BookList';
+import Books from './components/Books';
 import Categories from './components/Categories';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
     <BrowserRouter>
       <NavBar />
       <Routes>
-        <Route path="/" element={<BookList />} />
+        <Route path="/" element={<Books />} />
         <Route path="/categories" element={<Categories />} />
       </Routes>
     </BrowserRouter>
