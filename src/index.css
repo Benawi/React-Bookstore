@@ -137,3 +137,18 @@ body {
 .mb1 {
   margin-bottom: 1rem;
 }
+
+/* Default Button Style */
+.appDefaultButton {
+  padding: 0.5rem 1rem;
+  background-color: var(--font-color3);
+  border-radius: 3px;
+}
+
+.appDefaultButton:hover {
+  background-color: var(--font-color2);
+}
+
+.appDefaultButton:active {
+  color: var(--font-color1);
+}
