@@ -66,6 +66,17 @@ Book Store React Project - Microverse! - An online Bookstore app built with Reac
         - [x] Contains a list to renders individual books
         - [x] Contains a form to create new books
         - [x] Contains a navigation to link to the 2 routes you created
+    - [x] Add Redux Toolkit (npm install react-redux @reduxjs/toolkit).
+   - [x] Create a directory that will contain all your Redux logic (/src/redux)
+   - [x] Configure a Redux store (/src/redux/store.js)
+   - [x] Define a slice of state for books that:
+        - [x] Includes an array of books (initial state: empty array)
+       - [x] Includes a reducer that adds a book
+      - [x] Includes a reducer that removes a book
+  - [x] Define a slice of state for categories that:
+      - [x] Includes an array of categories (initial state: empty array)
+      - [x] Includes a reducer that checks the status and always returns "Under construction" (the initial state should check to that string)
+ -[x] Structure your application files using a "feature folder" approach and use the [ducks pattern](https://github.com/erikras/ducks-modular-redux) for your Redux files.
    - [x] In the browser tested ; it render without problems, [this](https://benawi.github.io/Microverse-React-Bookstore/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -246,7 +257,6 @@ You can redeploy this project by adding new lines of code to source files.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  Add the reducers and actions in redux for adding and removing the books👌
 -  Use the API for posting and fetching the books🚀
 -  Add some animations style for the project💯
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
