@@ -257,6 +257,7 @@ You can redeploy this project by adding new lines of code to source files.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+-  Use Redux in React components.
 -  Use the API for posting and fetching the books🚀
 -  Add some animations style for the project💯
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
