@@ -1,14 +1,12 @@
-import { FcSettings, FcWorkflow, FcTodoList } from 'react-icons/fc';
+import { useSelector } from 'react-redux';
 
-const Categories = () => (
-  <div className="categoriesPageContainer">
-    <h1>
-      <FcTodoList />
-      <FcWorkflow />
-      Page Under Construction
-      <FcSettings />
-    </h1>
-  </div>
-);
+const Categories = () => {
+  const categories = useSelector((state) => state.categories);
+  return (
+    <div className="categoriesPageContainer">
+      <h1>{categories}</h1>
+    </div>
+  );
+};
 
 export default Categories;
