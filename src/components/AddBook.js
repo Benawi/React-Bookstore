@@ -21,6 +21,13 @@ const BookForm = () => {
     setCategory(e.target.value);
   };
 
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    dispatch(addBook({ title, author, category }));
+    setTitle('');
+    setAuthor('');
+    setCategory('');
+  };
 
   const categories = [
     { value: '', label: 'Category', disabled: true },
@@ -35,7 +42,7 @@ const BookForm = () => {
   return (
     <div className="container">
       <h2 className="addhead">ADD NEW BOOK</h2>
-      <form id="addBook" >
+      <form id="addBook" onSubmit={handleSubmit}>
         <div className="formcontrol">
           <input
             type="text"
