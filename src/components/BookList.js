@@ -6,7 +6,7 @@ import ChapterProgress from './ChapterProgress';
 import ChapterUpdateProgress from './ChapterUpdateProgress';
 
 const BooksList = () => {
-
+  const dispatch = useDispatch();
   const books = useSelector((state) => state.books);
   return (
     <section className="section">
