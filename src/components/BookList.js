@@ -20,8 +20,7 @@ const BooksList = () => {
                 <div className="author">{book.category}</div>
                 <button
                   type="button"
-                  className="remove-btn"
-                  onClick={() => dispatch(removeBook(book.item_id))}
+                  className="remove-btn"                
                 >
                   <FcFullTrash />
                   Remove
