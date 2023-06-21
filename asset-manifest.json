@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Microverse-React-Bookstore/static/css/main.991539ba.css",
-    "main.js": "/Microverse-React-Bookstore/static/js/main.af850bb1.js",
+    "main.css": "/Microverse-React-Bookstore/static/css/main.edb385be.css",
+    "main.js": "/Microverse-React-Bookstore/static/js/main.c9682f9a.js",
     "static/js/787.084df8ef.chunk.js": "/Microverse-React-Bookstore/static/js/787.084df8ef.chunk.js",
     "index.html": "/Microverse-React-Bookstore/index.html",
-    "main.991539ba.css.map": "/Microverse-React-Bookstore/static/css/main.991539ba.css.map",
-    "main.af850bb1.js.map": "/Microverse-React-Bookstore/static/js/main.af850bb1.js.map",
+    "main.edb385be.css.map": "/Microverse-React-Bookstore/static/css/main.edb385be.css.map",
+    "main.c9682f9a.js.map": "/Microverse-React-Bookstore/static/js/main.c9682f9a.js.map",
     "787.084df8ef.chunk.js.map": "/Microverse-React-Bookstore/static/js/787.084df8ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.991539ba.css",
-    "static/js/main.af850bb1.js"
+    "static/css/main.edb385be.css",
+    "static/js/main.c9682f9a.js"
   ]
 }
