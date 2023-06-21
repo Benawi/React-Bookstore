@@ -3,20 +3,11 @@ import {
   Routes,
   Route,
 } from 'react-router-dom';
-import { useDispatch } from 'react-redux';
-import { useEffect } from 'react';
-import { fetchBooks } from './redux/books/booksSlice';
 import NavBar from './components/Navbar';
 import Books from './components/Books';
 import Categories from './components/Categories';
 
 function App() {
-  const dispatch = useDispatch();
-
-  useEffect(() => {
-    dispatch(fetchBooks());
-  }, [dispatch]);
-
   return (
     <BrowserRouter>
       <NavBar />

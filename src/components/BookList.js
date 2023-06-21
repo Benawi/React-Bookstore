@@ -1,6 +1,7 @@
 import { useSelector, useDispatch } from 'react-redux';
+import { useEffect } from 'react';
 import { FcFullTrash } from 'react-icons/fc';
-import { removeBook } from '../redux/books/booksSlice';
+import { removeBook, fetchBooks } from '../redux/books/booksSlice';
 import './AddBook.css';
 import ChapterProgress from './ChapterProgress';
 import ChapterUpdateProgress from './ChapterUpdateProgress';
@@ -10,6 +11,9 @@ function BookList() {
     (state) => state.books || [],
   );
   const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(fetchBooks());
+  }, [dispatch]);
 
   if (isLoading) {
     return (
