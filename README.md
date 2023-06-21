@@ -77,7 +77,16 @@ Book Store React Project - Microverse! - An online Bookstore app built with Reac
       - [x] Includes an array of categories (initial state: empty array)
       - [x] Includes a reducer that checks the status and always returns "Under construction" (the initial state should check to that string)
  -[x] Structure your application files using a "feature folder" approach and use the [ducks pattern](https://github.com/erikras/ducks-modular-redux) for your Redux files.
-   - [x] In the browser tested ; it render without problems, [this](https://benawi.github.io/Microverse-React-Bookstore/)
+ - [x] Wrap `<App>` with the `<Provider>` component from react-redux
+  - [x] Pass your configured store into the `<Provider>`
+  - [x] Create an initialState variable for your booksSlice, which will include 
+  - [x] Display your books, received from the slice, in a reusable component
+  - [x] Dispatch actions using useDispatch
+  - [x] Add a `<Button>` component, which includes:
+    - [x] An event handler that adds a book to the books array (with attributes id, title and author)
+  - [x] Add a `<Button>` component, which includes:
+    - [x] An event handler that removes a book from the books array (by id)
+  - [x] In the browser tested ; it render without problems, [this](https://benawi.github.io/Microverse-React-Bookstore/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,7 +265,6 @@ You can redeploy this project by adding new lines of code to source files.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 -  Use the API for posting and fetching the books🚀
 -  Add some animations style for the project💯
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
