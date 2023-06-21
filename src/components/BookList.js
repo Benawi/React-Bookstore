@@ -18,14 +18,6 @@ const BooksList = () => {
                 <div className="cat">{book.title}</div>
                 <div className="title">{book.author}</div>
                 <div className="author">{book.category}</div>
-                <button
-                  type="button"
-                  className="remove-btn"
-                  onClick={() => dispatch(removeBook(book.item_id))}
-                >
-                  <FcFullTrash />
-                  Remove
-                </button>
 
               </div>
               <div className="aside-center" style={{ flex: 2 }}>
