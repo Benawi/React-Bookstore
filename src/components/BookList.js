@@ -26,12 +26,9 @@ const BooksList = () => {
                   <FcFullTrash />
                   Remove
                 </button>
-
               </div>
               <div className="aside-center" style={{ flex: 2 }}>
-
                 <ChapterProgress />
-
               </div>
               <div className="aside-right" style={{ flex: 3 }}>
                 <ChapterUpdateProgress />
@@ -42,7 +39,6 @@ const BooksList = () => {
       </div>
       <hr />
     </section>
-
   );
 };
 
