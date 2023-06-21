@@ -18,6 +18,14 @@ const BooksList = () => {
                 <div className="cat">{book.title}</div>
                 <div className="title">{book.author}</div>
                 <div className="author">{book.category}</div>
+                <button
+                  type="button"
+                  className="remove-btn"
+                 
+                >
+                  <FcFullTrash />
+                  Remove
+                </button>
 
               </div>
               <div className="aside-center" style={{ flex: 2 }}>
