@@ -21,7 +21,7 @@ const BooksList = () => {
                 <button
                   type="button"
                   className="remove-btn"
-                 
+                  onClick={() => dispatch(removeBook(book.item_id))}
                 >
                   <FcFullTrash />
                   Remove
