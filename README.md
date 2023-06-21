@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
-![image](https://github.com/Benawi/Microverse-React-Bookstore/assets/21217148/e0396e38-ec6b-43fe-92b8-bf1051d91e55)
+![image](https://github.com/Benawi/Microverse-React-Bookstore/assets/21217148/8b4eee8a-f233-4c0d-bdb4-869467271b21)
+
 
 # 📗 Table of Contents
 
