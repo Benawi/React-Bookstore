@@ -1,6 +1,22 @@
 /* eslint-disable no-param-reassign */
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+import axios from 'axios';
 
+const url = 'https://us-central1-bookstore-api-e63c8.cloudfunctions.net/bookstoreApi/apps/cA7Cf2g9Qk0jCIg46zd1/books/';
+
+export const fetchBooks = createAsyncThunk(
+  'books/fetchBooks',
+  async (_, thunkCB) => {
+    try {
+      const response = await axios(url);
+      return response.data;
+    } catch (err) {
+      return thunkCB.rejectWithValue(
+        'An error occurred while fetching the data',
+      );
+    }
+  },
+);
 
 export const addBook = createAsyncThunk(
   'books/addBook',
