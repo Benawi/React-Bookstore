@@ -1,8 +1,8 @@
 import { useSelector, useDispatch } from 'react-redux';
 import { useEffect } from 'react';
-import { FcFullTrash } from 'react-icons/fc';
+import { FcComments, FcEditImage, FcFullTrash } from 'react-icons/fc';
 import { removeBook, fetchBooks } from '../redux/books/booksSlice';
-import './AddBook.css';
+import '../styles/AddBook.css';
 import ChapterProgress from './ChapterProgress';
 import ChapterUpdateProgress from './ChapterUpdateProgress';
 
@@ -45,12 +45,26 @@ function BookList() {
                   <button
                     type="button"
                     className="remove-btn"
+                  >
+                    <FcComments />
+                    Comments
+                  </button>
+                  <button
+                    type="button"
+                    className="remove-btn"
                     onClick={() => {
                       dispatch(removeBook(id));
                     }}
                   >
                     <FcFullTrash />
                     Remove
+                  </button>
+                  <button
+                    type="button"
+                    className="remove-btn"
+                  >
+                    <FcEditImage />
+                    Edit
                   </button>
                 </div>
                 <div className="aside-center" style={{ flex: 2 }}>

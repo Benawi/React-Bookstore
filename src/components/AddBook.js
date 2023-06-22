@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
 import { addBook } from '../redux/books/booksSlice';
-import './AddBook.css';
+import '../styles/AddBook.css';
 
 const categories = [
   'Select Category',
@@ -46,14 +46,14 @@ function AddBook() {
   return (
     <>
       <hr />
-      <div className="container">
+      <div className="container ">
         <h2 className="addhead">ADD NEW BOOK</h2>
         <div>
           <form id="addBook">
-            <div className="formcontrol">
+            <div className="formcontrol ">
               <input
                 type="text"
-                className="input-text"
+                className="input-text "
                 placeholder="Book Title"
                 required
                 style={{ flex: 4 }}
