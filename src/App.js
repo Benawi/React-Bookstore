@@ -12,6 +12,7 @@ function App() {
     <BrowserRouter>
       <NavBar />
       <Routes>
+        <Route index element={<Books />} />
         <Route path="/" element={<Books />} />
         <Route path="/categories" element={<Categories />} />
       </Routes>
