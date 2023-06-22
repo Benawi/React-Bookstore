@@ -84,6 +84,9 @@ Book Store React Project - Microverse! - An online Bookstore app built with Reac
     - [x] An event handler that adds a book to the books array (with attributes id, title and author)
   - [x] Add a `<Button>` component, which includes:
     - [x] An event handler that removes a book from the books array (by id)
+  - [x] Add any missing JSX elements to the project (without adding extra functionality)
+  - [x] The final design should match [Zeplin's design](https://github.com/microverseinc/curriculum-react-redux/blob/main/bookstore/images/bookstore.png) (this includes all elements + the same styling)
+  - [x] The CSS rules detailed in [Zeplin](https://app.zeplin.io/project/5b35a9e13227086040f8eb75/screen/5b695e29bb8c844f118f9378) to style the website used.
   - [x] In the browser tested ; it render without problems, [this](https://benawi.github.io/Microverse-React-Bookstore/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
