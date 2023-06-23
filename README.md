@@ -61,9 +61,9 @@ Book Store React Project - Microverse! - An online Bookstore app built with Reac
         - [x] /categories
    - [x] Create components inside of the /components directory:
         - [x] Contains individual book state, as well as a button to delete the book
-        - [x] Contains a list to renders individual books
+        - [x] Contains a list to render individual books
         - [x] Contains a form to create new books
-        - [x] Contains a navigation to link to the 2 routes you created
+        - [x] Contains navigation to link to the 2 routes you created
     - [x] Add Redux Toolkit (npm install react-redux @reduxjs/toolkit).
    - [x] Create a directory that will contain all your Redux logic (/src/redux)
    - [x] Configure a Redux store (/src/redux/store.js)
@@ -108,7 +108,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -283,7 +283,7 @@ Give me ⭐️ If you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- We would like to thank Microverse program for providing us this great chance.
+- We would like to thank the Microverse program for providing us with this great chance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
