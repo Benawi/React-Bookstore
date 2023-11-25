@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Microverse-React-Bookstore/static/css/main.5a83f9f6.css",
-    "main.js": "/Microverse-React-Bookstore/static/js/main.c3335877.js",
+    "main.css": "/Microverse-React-Bookstore/static/css/main.94576102.css",
+    "main.js": "/Microverse-React-Bookstore/static/js/main.029e5a95.js",
     "static/js/787.084df8ef.chunk.js": "/Microverse-React-Bookstore/static/js/787.084df8ef.chunk.js",
     "index.html": "/Microverse-React-Bookstore/index.html",
-    "main.5a83f9f6.css.map": "/Microverse-React-Bookstore/static/css/main.5a83f9f6.css.map",
-    "main.c3335877.js.map": "/Microverse-React-Bookstore/static/js/main.c3335877.js.map",
+    "main.94576102.css.map": "/Microverse-React-Bookstore/static/css/main.94576102.css.map",
+    "main.029e5a95.js.map": "/Microverse-React-Bookstore/static/js/main.029e5a95.js.map",
     "787.084df8ef.chunk.js.map": "/Microverse-React-Bookstore/static/js/787.084df8ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a83f9f6.css",
-    "static/js/main.c3335877.js"
+    "static/css/main.94576102.css",
+    "static/js/main.029e5a95.js"
   ]
 }
