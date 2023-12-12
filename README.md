@@ -31,7 +31,7 @@ Book Store React Project - Microverse! - An online Bookstore app built with Reac
 - Html files
 - CSS files
 - JS files
-- HTML,CSS, and JS linters file
+- HTML, CSS, and JS linters file
 
 ## 🛠 Built With <a name="built-with"></a>
 
