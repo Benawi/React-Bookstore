@@ -69,7 +69,7 @@ Book Store React Project - Microverse! - An online Bookstore app built with Reac
    - [x] Configure a Redux store (/src/redux/store.js)
    - [x] Define a slice of state for books that:
         - [x] Includes an array of books (initial state: empty array)
-       - [x] Includes a reducer that adds a book
+       - [x] Includes a reducer that adds books
       - [x] Includes a reducer that removes a book
   - [x] Define a slice of state for categories that:
       - [x] Includes an array of categories (initial state: empty array)
