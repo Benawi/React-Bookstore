@@ -266,7 +266,7 @@ You can redeploy this project by adding new lines of code to source files.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
--  Add some animations style for the project💯
+-  Add some animation style for the project💯
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
