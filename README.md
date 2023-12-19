@@ -234,7 +234,7 @@ npm install
 Track HTML linter errors run:
 
 ```
-npx hint .
+npx hint.
 ```
 
 Track CSS linter errors run:
