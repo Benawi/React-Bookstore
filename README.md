@@ -217,7 +217,7 @@ npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-i
 
 ### Usage
 
-You can use this project by cloning it to your folder and changing index.html and styles.css files.
+You can use this project by cloning it to your folder and changing index.html and styles.css file.
 
 ### Run tests
 
