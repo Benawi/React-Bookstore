@@ -30,7 +30,7 @@
 Book Store React Project - Microverse! - An online Bookstore app built with React, Redux, CSS, and HTML. Users can browse books by category, add them to a cart, and proceed to checkout. The app features a search function, allowing users to search for books by title or author. project is a repository consisting of the following files:
 - Html files
 - CSS files
-- JS file
+- JS files
 - HTML, CSS, and JS linters file
 
 ## 🛠 Built With <a name="built-with"></a>
