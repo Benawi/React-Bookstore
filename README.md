@@ -81,7 +81,7 @@ Book Store React Project - Microverse! - An online Bookstore app built with Reac
   - [x] Display your books, received from the slice, in a reusable component
   - [x] Dispatch actions using useDispatch
   - [x] Add a `<Button>` component, which includes:
-    - [x] An event handler that adds a book to the books array (with attributes id, title and author)
+    - [x] An event handler that adds a book to the books array (with attributes id, title, and author)
   - [x] Add a `<Button>` component, which includes:
     - [x] An event handler that removes a book from the books array (by id)
   - [x] Add any missing JSX elements to the project (without adding extra functionality)
